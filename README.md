@@ -1,3 +1,3 @@
 # Discord Clone
 
-Html, css e tailwind
+Html, Css e Tailwind
